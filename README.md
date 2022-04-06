@@ -66,7 +66,7 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 - Author - [Oğuzhan ÇART](http://oguzhancart.rf.gd/)
 - Website - [http://oguzhancart.rf.gd/](http://oguzhancart.rf.gd/)
-- LinkedIn - [LinkedIn](https://www.linkedin.com/in//)
+- LinkedIn - [LinkedIn](https://www.linkedin.com/in/o%C4%9Fuzhan-%C3%A7art-b73405199/)
 
 ## License
 
